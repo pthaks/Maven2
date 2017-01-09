@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="21" started-at="2017-01-06T08:55:13Z" finished-at="2017-01-06T08:55:13Z">
+  <suite name="Default suite" duration-ms="16577" started-at="2017-01-09T08:35:18Z" finished-at="2017-01-09T08:35:35Z">
     <groups>
     </groups>
-    <test name="Tests" duration-ms="21" started-at="2017-01-06T08:55:13Z" finished-at="2017-01-06T08:55:13Z">
+    <test name="Default test" duration-ms="16577" started-at="2017-01-09T08:35:18Z" finished-at="2017-01-09T08:35:35Z">
       <class name="org.pthaks.Maven2.AppTest">
-        <test-method status="PASS" signature="pfunc()[pri:0, instance:org.pthaks.Maven2.AppTest@724af044]" name="pfunc" duration-ms="8" started-at="2017-01-06T14:25:13Z" finished-at="2017-01-06T14:25:13Z">
+        <test-method status="PASS" signature="pfunc()[pri:0, instance:org.pthaks.Maven2.AppTest@18be83e4]" name="pfunc" duration-ms="16562" started-at="2017-01-09T14:05:18Z" finished-at="2017-01-09T14:05:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pfunc -->
       </class> <!-- org.pthaks.Maven2.AppTest -->
-    </test> <!-- Tests -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
